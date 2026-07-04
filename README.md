@@ -49,7 +49,18 @@ FIFA-World-Cup-Analytics/
 ├── Dataset/
 ├── Images/
 └── LICENSE
-```
+---
+# FIFA World Cup Analytics Dashboard
+
+## Final Matches
+![2002 Final](images/2002_final_match.png)
+![2006 Final](images/2006_final_match.png)
+![2018 Final](images/2018_final_match.png)
+![2022 Final](images/2022_final_match.png)
+
+## Stadiums 2026
+![WC 2026 Stadiums](images/wc_2026_Stadiums.png)
+
 
 ---
 
