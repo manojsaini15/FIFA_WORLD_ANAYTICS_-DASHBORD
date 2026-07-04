@@ -53,22 +53,7 @@ FIFA-World-Cup-Analytics/
 
 ---
 
-## 📷 Dashboard Preview
 
-> Add screenshots of your dashboard here.
-
-Example:
-
-```
-Images/
-├── Home.png
-├── History.png
-├── Legacy.png
-├── Future.png
-├── Player Analysis.png
-```
-
----
 
 ## 📌 Key Insights
 
